@@ -1,0 +1,5 @@
+Model,Test Accuracy (%)
+CNN,83.31
+VGG16,92.44
+ResNet50,89.19
+EfficientNetB0,82.94
