@@ -1,0 +1,2 @@
+# An-Explainable-Deep-Learning-Framework-for-Brain-Tumor-Classification-Using-Grad-CAM-Visualization
+This project presents an explainable deep learning model for classifying brain tumors from medical images. It uses Grad-CAM visualization to highlight important regions in the images, helping users understand how the model makes decisions. This improves both accuracy and transparency in medical diagnosis.
